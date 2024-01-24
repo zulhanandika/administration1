@@ -1,0 +1,6 @@
+Import into user
+13/11/2023 01:58:51
+
+4 out of 4 records processed successfully.
+4 records added.
+0 records updated.
